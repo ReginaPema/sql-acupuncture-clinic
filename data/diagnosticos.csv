@@ -1,0 +1,26 @@
+﻿diagnostico_id,paciente_id,fecha_diagnostico,patron_tcm,organo_afectado,etiologia,observaciones_lengua,observaciones_pulso
+1,1,20/01/2023,Deficiencia de Yin de Riñón,Riñón,Exceso de trabajo y estrés crónico,Lengua roja sin saburra seca,Pulso delgado y rápido
+2,1,15/06/2023,Deficiencia de Qi de Bazo,Bazo,Dieta irregular hábitos alimenticios pobres,Lengua pálida con bordes dentados,Pulso débil y hundido
+3,2,10/02/2023,Estancamiento de Qi de Hígado,Hígado,Estrés emocional y frustración crónica,Lengua ligeramente morada en bordes,Pulso en cuerda
+4,3,25/02/2023,Viento-Frío Externo,Pulmón,Exposición a frío y viento,Saburra blanca y delgada,Pulso superficial y lento
+5,3,14/08/2023,Deficiencia de Qi de Pulmón,Pulmón,Gripes recurrentes debilitamiento,Lengua pálida saburra blanca delgada,Pulso débil en posición del pulmón
+6,4,15/03/2023,Deficiencia de Yang de Riñón,Riñón,Envejecimiento y estrés crónico,Lengua pálida e hinchada con marcas de dientes,Pulso profundo débil y lento
+7,5,28/03/2023,Humedad-Calor en Estómago-Intestino,Estómago-Intestino Grueso,Dieta grasa y picante consumo de alcohol,Saburra amarilla y grasienta,Pulso resbaladizo y rápido
+8,6,18/04/2023,Estancamiento de Sangre,Hígado-Corazón,Trauma emocional y sedentarismo,Lengua morada con petequias,Pulso rugoso
+9,7,02/05/2023,Deficiencia de Sangre de Hígado,Hígado,Anemia crónica y estrés,Lengua pálida y delgada,Pulso delgado y rugoso
+10,8,10/05/2023,Flema obstruyendo el Corazón,Corazón-Bazo,Dieta irregular y preocupación excesiva,Saburra gruesa y grasienta,Pulso resbaladizo
+11,9,25/05/2023,Deficiencia de Yin de Hígado-Riñón,Hígado-Riñón,Constitución débil y agotamiento,Lengua roja con fisuras saburra escasa,Pulso delgado y rápido
+12,10,08/06/2023,Calor en el Hígado,Hígado,Exceso de emociones e ira reprimida,Lengua roja con puntos rojos en bordes,Pulso en cuerda y rápido
+13,11,22/06/2023,Deficiencia de Qi y Sangre,Bazo-Corazón,Posparto y cirugía reciente,Lengua muy pálida y delgada,Pulso débil y delgado
+14,12,10/07/2023,Invasión de Viento-Calor,Pulmón,Infección respiratoria aguda,Saburra amarilla y delgada en la punta,Pulso superficial y rápido
+15,2,05/09/2023,Deficiencia de Yin con Calor Vacío,Riñón-Corazón,Estrés crónico prolongado agotamiento del Yin,Lengua roja brillante sin saburra con fisuras,Pulso delgado rápido e irregular
+16,4,12/10/2023,Deficiencia de Yang con Estancamiento de Frío,Riñón-Hígado,Enfermedad crónica y exposición al frío,Lengua pálida y morada saburra blanca húmeda,Pulso profundo rugoso y lento
+17,6,08/11/2023,Deficiencia de Sangre con Estancamiento de Qi,Hígado-Corazón,Post-trauma emocional y anemia,Lengua pálida con bordes levemente morados,Pulso delgado en cuerda
+18,13,25/07/2023,Invasión de Viento-Frío con Deficiencia de Wei Qi,Pulmón-Superficial,Inmunidad baja y exposición frecuente al frío,Saburra blanca y delgada lengua pálida,Pulso superficial débil y lento
+19,14,10/08/2023,Humedad-Frío en Meridianos,Articulaciones-Hígado,Trabajo en ambiente húmedo y frío artritis,Saburra blanca gruesa y húmeda,Pulso resbaladizo y lento
+20,15,22/08/2023,Flema-Calor perturbando el Shen,Corazón-Pulmón,Estrés severo insomnio crónico y dieta,Saburra amarilla y gruesa lengua roja,Pulso resbaladizo y rápido
+21,16,10/09/2023,Calor de Estómago con Deficiencia de Yin,Estómago-Riñón,Dieta picante y exceso de trabajo,Lengua roja con saburra amarilla en centro,Pulso rápido en cuerda y delgado en posición del Riñón
+22,17,18/09/2023,Estancamiento de Qi y Humedad en Bazo,Bazo-Hígado,Sedentarismo dieta irregular y frustración,Lengua con saburra gruesa blanca bordes dentados,Pulso en cuerda y resbaladizo
+23,13,15/01/2024,Deficiencia de Qi de Pulmón con Flema,Pulmón-Bazo,Bronquitis recurrente y Deficiencia crónica,Lengua pálida con saburra blanca húmeda,Pulso débil y resbaladizo
+24,14,20/02/2024,Estancamiento de Sangre con Humedad-Frío,Hígado-Riñón,Artritis crónica con componente de Sangre estancada,Lengua morada con saburra blanca húmeda,Pulso rugoso y lento
+25,16,05/03/2024,Calor en Intestino Grueso,Intestino Grueso,Dieta alta en alimentos picantes y alcohol,Saburra amarilla gruesa y seca,Pulso resbaladizo y rápido

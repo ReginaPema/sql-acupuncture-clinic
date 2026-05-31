@@ -1,0 +1,43 @@
+﻿sesion_id,paciente_id,diagnostico_id,fecha_sesion,numero_sesion,duracion_min,tecnicas_utilizadas,notas_evolucion
+1,1,1,25/01/2023,1,60,Acupuntura Moxibustión,Primera sesión la paciente reporta insomnio y calores nocturnos
+2,1,1,01/02/2023,2,60,Acupuntura,Mejora notable en calidad del sueño reducción de calores nocturnos
+3,1,1,08/02/2023,3,60,Acupuntura Tuina,Continúa mejorando paciente menos ansiosa
+4,1,2,01/07/2023,1,60,Acupuntura Moxibustión,Inicio tratamiento por Deficiencia de Qi de Bazo fatiga y digestión lenta
+5,1,2,08/07/2023,2,60,Acupuntura Moxibustión,Mejora en digestión menos distensión abdominal
+6,2,3,15/02/2023,1,60,Acupuntura,Primera sesión notable tensión en cuello y hombros cefalea tensional
+7,2,3,22/02/2023,2,60,Acupuntura Cupping,Mejora en distensión abdominal cefalea reducida
+8,2,3,01/03/2023,3,60,Acupuntura Tuina,Paciente refiere sentirse más tranquilo
+9,2,15,12/09/2023,1,60,Acupuntura Auriculoterapia,Inicio tratamiento Deficiencia de Yin con Calor Vacío sofocos y ansiedad nocturna
+10,2,15,19/09/2023,2,60,Acupuntura Auriculoterapia,Reducción de sofocos sueño más continuo
+11,3,4,01/03/2023,1,45,Acupuntura Moxibustión,Síntomas agudos de resfriado fiebre baja cuerpo cortado
+12,4,6,20/03/2023,1,60,Acupuntura Moxibustión,Dolor lumbar severo sensación de frío en espalda baja
+13,4,6,27/03/2023,2,60,Acupuntura Moxibustión,Reducción del 50% del dolor lumbar más calor en zona
+14,4,6,03/04/2023,3,60,Acupuntura Moxibustión Electroacupuntura,Continúa la mejoría del dolor lumbar
+15,4,16,20/10/2023,1,60,Acupuntura Moxibustión,Nuevo ciclo por Deficiencia de Yang con Estancamiento de Frío dolor articular
+16,4,16,27/10/2023,2,60,Acupuntura Moxibustión Cupping,Reducción del dolor articular mayor movilidad
+17,5,7,02/04/2023,1,60,Acupuntura,Distensión abdominal postprandial náuseas recurrentes
+18,5,7,09/04/2023,2,60,Acupuntura Tuina,Mejoría digestiva significativa menos náuseas
+19,6,8,22/04/2023,1,60,Acupuntura Electroacupuntura,Dolor crónico en región torácica y palpitaciones
+20,6,8,29/04/2023,2,60,Acupuntura Electroacupuntura,Reducción de palpitaciones mejora del sueño
+21,6,8,06/05/2023,3,60,Acupuntura Electroacupuntura Auriculoterapia,Paciente muy mejorado trabajo con ansiedad residual
+22,6,17,15/11/2023,1,60,Acupuntura Moxibustión,Reingresa con Deficiencia de Sangre y Estancamiento de Qi fatiga y ánimo bajo
+23,6,17,22/11/2023,2,60,Acupuntura Moxibustión Auriculoterapia,Mejora del ánimo más energía
+24,7,9,05/05/2023,1,60,Acupuntura Moxibustión,Palidez fatiga intensa mareos postmenstruales
+25,7,9,12/05/2023,2,60,Acupuntura,Más energía reducción de mareos
+26,8,10,15/05/2023,1,60,Acupuntura,Sensación de pesadez mental confusión y palpitaciones
+27,8,10,22/05/2023,2,60,Acupuntura Auriculoterapia,Mayor claridad mental reducción de pesadez
+28,9,11,30/05/2023,1,60,Acupuntura,Tinnitus vértigo sofocos
+29,9,11,06/06/2023,2,60,Acupuntura Auriculoterapia,Reducción del tinnitus mejora del vértigo
+30,10,12,12/06/2023,1,60,Acupuntura Cupping,Cefalea migraña irritabilidad extrema
+31,10,12,19/06/2023,2,60,Acupuntura,Reducción de frecuencia de migrañas
+32,11,13,28/06/2023,1,60,Acupuntura Moxibustión,Postparto fatiga extrema leche escasa
+33,11,13,05/07/2023,2,60,Acupuntura Moxibustión,Más energía y producción de leche mejora
+34,12,14,14/07/2023,1,45,Acupuntura,Fiebre dolor de garganta rinitis aguda
+35,19,19,20/08/2023,1,60,Acupuntura Moxibustión,Dolor en rodillas y caderas sensación de frío y humedad en articulaciones
+36,19,19,27/08/2023,2,60,Acupuntura Moxibustión Cupping,Reducción del dolor articular en rodillas
+37,20,20,05/09/2023,1,60,Acupuntura Auriculoterapia,Insomnio severo agitación mental y palpitaciones nocturnas
+38,20,20,12/09/2023,2,60,Acupuntura Auriculoterapia,Mejora del sueño menos agitación
+39,20,20,19/09/2023,3,60,Acupuntura Auriculoterapia Electroacupuntura,Sueño más estable trabajo con ansiedad
+40,21,21,18/09/2023,1,60,Acupuntura,Acidez y ardor gástrico episodios de hambre nocturna estreñimiento leve
+41,22,22,25/09/2023,1,60,Acupuntura Tuina,Distensión abdominal crónica deposiciones irregulares y fatiga postprandial
+42,22,22,02/10/2023,2,60,Acupuntura Tuina Moxibustión,Mejora en digestión deposiciones más regulares

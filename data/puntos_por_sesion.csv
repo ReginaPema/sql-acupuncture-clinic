@@ -1,0 +1,100 @@
+﻿uso_id,sesion_id,acupunto_id,lado,estimulacion,numero_agujas,razon_seleccion
+1,1,4,Bilateral,Tonificación,2,Nutre Yin y Sangre base para síndrome de Deficiencia de Yin
+2,1,5,Bilateral,Tonificación,2,Punto principal del Riñón nutre el Yin
+3,1,8,Bilateral,Neutro,2,Calma la mente trata el insomnio
+4,1,18,Bilateral,Tonificación,2,Nutre Yin de Riñón calma la mente
+5,2,4,Bilateral,Tonificación,2,Continuación tratamiento Yin de Riñón
+6,2,5,Bilateral,Tonificación,2,Fortalece Riñón Yin
+7,2,9,Unilateral,Neutro,1,Aclara la mente calma el Espíritu
+8,3,4,Bilateral,Tonificación,2,Tonifica Yin y Sangre
+9,3,5,Bilateral,Tonificación,2,Nutre Yin de Riñón
+10,3,11,Bilateral,Tonificación,2,Punto Shu del Riñón refuerza el tratamiento
+11,4,3,Bilateral,Tonificación,2,Tonifica Qi de Bazo punto principal
+12,4,15,Unilateral,Neutro,1,Regula Bazo y Estómago centro digestivo
+13,5,3,Bilateral,Tonificación,2,Continuación fortalecimiento del Bazo
+14,5,15,Unilateral,Neutro,1,Soporte del Estómago
+15,6,2,Bilateral,Dispersión,2,Mueve Qi de Hígado punto principal para estancamiento
+16,6,1,Bilateral,Neutro,2,Calma la mente regula el Qi del Corazón
+17,6,12,Bilateral,Dispersión,2,Mueve el Qi del Hígado relaja tendones y nervios
+18,7,2,Bilateral,Dispersión,2,Continuación movimiento de Qi de Hígado
+19,7,6,Bilateral,Dispersión,2,Expulsa el viento alivia el dolor de cabeza
+20,8,2,Bilateral,Dispersión,2,Tercera sesión mantenimiento
+21,8,3,Bilateral,Tonificación,2,Fortalece el Bazo soporte del Hígado
+22,9,4,Bilateral,Tonificación,2,Nutre el Yin de Riñón base del tratamiento
+23,9,5,Bilateral,Tonificación,2,Nutre el Yin de Riñón y calma el Fuego Vacío
+24,9,8,Bilateral,Neutro,2,Calma el Shen trata la ansiedad nocturna
+25,10,4,Bilateral,Tonificación,2,Continuación nutrición del Yin
+26,10,18,Bilateral,Tonificación,2,Nutre Yin de Riñón refuerza tratamiento
+27,11,6,Bilateral,Dispersión,2,Expulsa el viento frío punto maestro exterior
+28,11,7,Bilateral,Dispersión,2,Difunde el Qi del Pulmón punto de Luo
+29,11,17,Unilateral,Dispersión,1,Expulsa el viento calor de la superficie
+30,12,5,Bilateral,Tonificación,2,Nutre el Yang de Riñón base del tratamiento
+31,12,10,Unilateral,Tonificación,1,Fortalece el Yang original
+32,12,11,Bilateral,Tonificación,2,Punto Shu del Riñón refuerza el Yang de Riñón
+33,13,5,Bilateral,Tonificación,2,Continuación Yang de Riñón
+34,13,11,Bilateral,Tonificación,2,Refuerza el tratamiento del Riñón
+35,14,5,Bilateral,Tonificación,2,Tercera sesión consolidación Yang de Riñón
+36,14,10,Unilateral,Tonificación,1,Refuerza el Yang original
+37,15,5,Bilateral,Tonificación,2,Nutre Yang de Riñón con componente de frío
+38,15,11,Bilateral,Tonificación,2,Punto Shu del Riñón
+39,16,5,Bilateral,Tonificación,2,Continuación tratamiento
+40,16,16,Bilateral,Neutro,2,Mueve la Sangre trata el estancamiento de frío
+41,17,15,Unilateral,Neutro,1,Regula el Bazo y Estómago mejora digestión
+42,17,3,Bilateral,Tonificación,2,Tonifica Qi y Sangre fortalece el Bazo
+43,18,3,Bilateral,Tonificación,2,Continuación fortalecimiento del Bazo
+44,18,14,Bilateral,Dispersión,2,Transforma la Humedad y la Flema en el Estómago
+45,19,8,Bilateral,Dispersión,2,Calma el Corazón trata las palpitaciones
+46,19,16,Bilateral,Neutro,2,Mueve la Sangre estancada
+47,19,1,Bilateral,Neutro,2,Regula el Qi del Corazón
+48,20,8,Bilateral,Dispersión,2,Continuación calma el Corazón
+49,20,16,Bilateral,Neutro,2,Mueve la Sangre
+50,21,8,Bilateral,Dispersión,2,Tercera sesión consolidación
+51,21,1,Bilateral,Neutro,2,Regula Corazón y Pericardio
+52,22,3,Bilateral,Tonificación,2,Tonifica Qi y Sangre punto principal
+53,22,4,Bilateral,Tonificación,2,Nutre la Sangre regula la menstruación
+54,22,13,Bilateral,Tonificación,2,Nutre la Sangre de Hígado
+55,23,3,Bilateral,Tonificación,2,Continuación tonificación
+56,23,4,Bilateral,Tonificación,2,Nutre la Sangre
+57,24,3,Bilateral,Tonificación,2,Tonifica Qi y Sangre punto principal
+58,24,4,Bilateral,Tonificación,2,Nutre la Sangre regula la menstruación
+59,25,3,Bilateral,Tonificación,2,Continuación
+60,25,4,Bilateral,Tonificación,2,Nutre la Sangre
+61,26,14,Bilateral,Dispersión,2,Transforma la Flema y la Humedad
+62,26,3,Bilateral,Tonificación,2,Fortalece el Bazo previene la formación de Flema
+63,27,14,Bilateral,Dispersión,2,Continuación transformación de Flema
+64,27,9,Unilateral,Neutro,1,Aclara la mente
+65,28,4,Bilateral,Tonificación,2,Nutre el Yin de Hígado y Riñón
+66,28,5,Bilateral,Tonificación,2,Nutre el Yin de Riñón trata el tinnitus
+67,28,2,Bilateral,Neutro,2,Nutre el Yin de Hígado
+68,29,4,Bilateral,Tonificación,2,Continuación nutrición del Yin
+69,29,5,Bilateral,Tonificación,2,Refuerzo del Yin de Riñón
+70,30,2,Bilateral,Dispersión,2,Calma el Hígado Yang en ascenso
+71,30,12,Bilateral,Dispersión,2,Mueve el Qi del Hígado
+72,30,6,Bilateral,Dispersión,2,Alivia el dolor de cabeza
+73,31,2,Bilateral,Dispersión,2,Continuación calmando el Hígado
+74,31,9,Unilateral,Neutro,1,Aclara la mente
+75,32,3,Bilateral,Tonificación,2,Tonifica el Qi y la Sangre postparto
+76,32,4,Bilateral,Tonificación,2,Nutre la Sangre regula los fluidos
+77,32,10,Unilateral,Tonificación,1,Fortalece el Qi original postparto
+78,33,3,Bilateral,Tonificación,2,Continuación tonificación postparto
+79,33,4,Bilateral,Tonificación,2,Nutre la Sangre
+80,34,6,Bilateral,Dispersión,2,Expulsa el viento calor
+81,34,17,Unilateral,Dispersión,1,Aclara el calor externo
+82,35,5,Bilateral,Tonificación,2,Yang de Riñón base del tratamiento articular
+83,35,11,Bilateral,Tonificación,2,Punto Shu del Riñón fortalece Riñón
+84,35,19,Bilateral,Dispersión,2,Drena la Humedad-Frío de las articulaciones
+85,36,5,Bilateral,Tonificación,2,Continuación tratamiento
+86,36,19,Bilateral,Dispersión,2,Drena la Humedad
+87,37,8,Bilateral,Dispersión,2,Calma el Shen trata el insomnio por Flema-Calor
+88,37,14,Bilateral,Dispersión,2,Transforma la Flema-Calor
+89,37,1,Bilateral,Neutro,2,Regula el Qi del Corazón-Pericardio
+90,38,8,Bilateral,Dispersión,2,Continuación calma el Shen
+91,38,14,Bilateral,Dispersión,2,Transforma la Flema
+92,39,8,Bilateral,Dispersión,2,Consolidación
+93,39,1,Bilateral,Neutro,2,Regula el Corazón
+94,40,20,Bilateral,Dispersión,2,Enfría el Calor del Estómago
+95,40,3,Bilateral,Neutro,2,Regula el Estómago evita el daño al Qi del Bazo
+96,41,3,Bilateral,Tonificación,2,Tonifica el Bazo y el Estómago
+97,41,15,Unilateral,Neutro,1,Regula el Qi Medio del Estómago
+98,42,3,Bilateral,Tonificación,2,Continuación tonificación del Bazo
+99,42,15,Unilateral,Neutro,1,Regula el centro

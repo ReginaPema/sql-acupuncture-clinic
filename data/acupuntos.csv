@@ -1,0 +1,29 @@
+﻿acupunto_id,codigo,nombre_chino,nombre_español,meridiano,numero_punto,localizacion,accion_principal
+1,PC6,Neiguan,Puerta Interna,Pericardio,6,2 cun proximal al pliegue de la muñeca entre los tendones,Calma la mente regula el Qi del Corazón
+2,LV3,Taichong,Gran Impulso,Hígado,3,En el dorso del pie entre el 1er y 2do metatarsiano,Mueve el Qi y la Sangre de Hígado
+3,ST36,Zusanli,Tres Millas de la Pierna,Estómago,36,3 cun inferior a ST35 un dedo lateral a la cresta tibial,Tonifica Qi y Sangre fortalece el Bazo
+4,SP6,Sanyinjiao,Reunión de los Tres Yin,Bazo,6,3 cun superior al maléolo medial en el borde posterior de la tibia,Tonifica Yin y Sangre regula la menstruación
+5,KD3,Taixi,Arroyo Supremo,Riñón,3,Entre el maléolo medial y el tendón de Aquiles,Nutre el Yin de Riñón fortalece el Yang de Riñón
+6,LI4,Hegu,Valle Unido,Intestino Grueso,4,En el dorso de la mano entre el 1er y 2do metacarpiano,Expulsa el viento exterior alivia el dolor
+7,LU7,Lieque,Secuencia Rota,Pulmón,7,"1.5 cun proximal al pliegue de la muñeca, en la hendidura sobre el proceso estiloide del radio",Punto de apertura de Ren Mai difunde Qi del Pulmón expulsa viento exterior
+8,HT7,Shenmen,Puerta del Espíritu,Corazón,7,En el pliegue de la muñeca en el lado cubital,Calma la mente nutre la Sangre del Corazón
+9,GV20,Baihui,Cien Reuniones,Vaso Gobernador,20,En la línea media de la cabeza entre los ápices de las orejas,Eleva el Yang aclara la mente calma el Espíritu
+10,CV4,Guanyuan,Puerta de la Fuente Original,Vaso de la Concepción,4,3 cun inferior al ombligo en la línea media,Nutre el Jing fortalece el Yang original
+11,BL23,Shenshu,Punto Shu del Riñón,Vejiga,23,1.5 cun lateral a la apófisis espinosa de L2,Fortalece el Riñón nutre el Jing
+12,GB34,Yanglingquan,Manantial de Yang de la Colina,Vesícula Biliar,34,En la depresión anterior e inferior a la cabeza del peroné,Mueve el Qi y la Sangre del Hígado relaja los tendones
+13,LV8,Ququan,Manantial de la Curva,Hígado,8,"En el extremo medial del pliegue poplíteo, anterior al tendón semimembranoso y semitendinoso",Nutre el Yin y  la sangre del Hígado drena la Humedad
+14,ST40,Fenglong,Abundancia Próspera,Estómago,40,A medio camino entre la rodilla y el maléolo lateral,Transforma la Flema y la Humedad
+15,CV12,Zhongwan,Epigastrio Medio,Vaso de la Concepción,12,4 cun superior al ombligo en la línea media,Fortalece el Bazo y el Estómago regula el Qi Medio
+16,BL17,Geshu,Punto Shu del Diafragma,Vejiga,17,1.5 cun lateral a la apófisis espinosa de T7,Mueve la Sangre nutre la Sangre
+17,DU14,Dazhui,Gran Vértebra,Vaso Gobernador,14,En la línea media entre C7 y T1,Expulsa viento y calor exterior fortalece Wei Qi
+18,KD6,Zhaohai,Mar Brillante,Riñón,6,1 cun inferior al maléolo medial,Nutre el Yin de Riñón calma la mente
+19,SP9,Yinlingquan,Manantial de Yin de la Colina,Bazo,9,En la depresión inferior al cóndilo medial de la tibia,Drena la Humedad y regula el Jiao Inferior
+20,LI11,Quchi,Estanque en la Curva,Intestino Grueso,11,En el extremo lateral del pliegue del codo,Elimina el Calor y la Humedad-Calor regula la Sangre
+21,ST25,Tianshu,Eje Celestial,Estómago,25,2 cun lateral al ombligo,Regula el Intestino Grueso transforma la Humedad
+22,BL40,Weizhong,Punto de Apoyo,Vejiga,40,En el centro del pliegue poplíteo,Punto maestro de la espalda punto he del meridiano de Vejiga y punto de los cuatro maestros mueve la Sangre relaja los tendones 
+23,PC7,Daling,Gran Montículo,Pericardio,7,En el centro del pliegue de la muñeca entre los tendones,Calma el Corazón y el Shen enfría el Calor del Corazón
+24,LU5,Chize,Pantano del Pulmón,Pulmón,5,En el pliegue del codo en el borde radial del tendón del bíceps,Enfría el Calor del Pulmón transforma la Flema
+25,GB20,Fengchi,Estanque del Viento,Vesícula Biliar,20,En la depresión entre los músculos trapecio y esternocleidomastoideo,Expulsa el Viento exterior e interior alivia la cefalea
+26,ST44,Neiting,Patio Interior,Estómago,44,En el margen distal de la membrana interdigital entre el 2do y 3er dedo del pie,Enfría el Calor del Estómago alivia el dolor dental y de encías
+27,KD7,Fuliu,Flujo Recurrente,Riñón,7,2 cun superior a KD3 en el borde anterior del tendón de Aquiles,Tonifica el Yang de Riñón regula la sudoración
+28,BL13,Feishu,Punto Shu del Pulmón,Vejiga,13,1.5 cun lateral a la apófisis espinosa de T3,Tonifica y regula el Qi del Pulmón transforma la Flema

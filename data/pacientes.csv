@@ -1,0 +1,18 @@
+﻿paciente_id,nombre,fecha_nacimiento,sexo,telefono,email,fecha_registro
+1,Ana García López,12/03/1985,F,5551234567,ana.garcia@email.com,15/01/2023
+2,Carlos Mendoza Ruiz,24/07/1978,M,5559876543,cmendoza@email.com,03/02/2023
+3,Sofía Torres Vega,05/11/1992,F,5553456789,sofia.torres@email.com,20/02/2023
+4,Miguel Hernández Cruz,18/04/1965,M,5557890123,mhernandez@email.com,08/03/2023
+5,Valentina Ríos Morales,30/09/1990,F,5552345678,vrios@email.com,22/03/2023
+6,Roberto Salinas Pérez,01/12/1958,M,5556543210,rsalinas@email.com,10/04/2023
+7,Gabriela Fuentes Nava,14/05/1988,F,5554321098,gfuentes@email.com,25/04/2023
+8,Ernesto Vargas Luna,07/08/1972,M,5558765432,evargas@email.com,03/05/2023
+9,Daniela Castillo Reyes,28/02/1995,F,5551098765,dcastillo@email.com,18/05/2023
+10,Jorge Medina Ortega,15/10/1980,M,5555678901,jmedina@email.com,01/06/2023
+11,Patricia Lomas Díaz,22/06/1968,F,5553210987,plomas@email.com,15/06/2023
+12,Héctor Aguirre Soto,09/01/1983,M,5557654321,haguirre@email.com,02/07/2023
+13,Lucía Paredes Ibáñez,03/04/1997,F,5559012345,lparedes@email.com,20/07/2023
+14,Fernando Ochoa Bravo,17/08/1961,M,5550123456,fochoa@email.com,05/08/2023
+15,Renata Solís Campos,29/12/1993,F,5556789012,rsolis@email.com,18/08/2023
+16,Alejandro Vega Ponce,11/06/1975,M,5554567890,avega@email.com,03/09/2023
+17,Isabel Romero Cano,25/01/2001,F,5552109876,iromero@email.com,14/09/2023
