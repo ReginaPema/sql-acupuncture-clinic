@@ -11,14 +11,6 @@
 
 ---
 
-## Note / Nota
-
-**EN** · The author is a licensed acupuncturist (RENATED certified, Folio A-43253) and a professional in data science and analytics. Patient data is entirely fictional. The 28 acupuncture points, 8 TCM diagnostic patterns, and treatment protocols reflect real Traditional Chinese Medicine practice.
-
-**ES** · La autora es acupunturista certificada (RENATED, Folio A-43253) y profesional de la analítica y aiencia de datos. Los datos de pacientes son completamente ficticios. Los 28 acupuntos, 8 patrones diagnósticos MTC y protocolos de tratamiento reflejan práctica real de Medicina Tradicional China.
-
----
-
 ## Database Schema / Esquema de Base de Datos
 
     pacientes (patients)
@@ -111,6 +103,14 @@ ES · Devuelve todos los registros de la tabla izquierda y las coincidencias de 
 Usado para: pacientes sin sesiones y diagnósticos sin tratamiento iniciado.
 
 ### 
+
+---
+
+## Note / Nota
+
+**EN** · The author is a licensed acupuncturist (RENATED certified, Folio A-43253) and a professional in data science and analytics. Patient data is entirely fictional. The 28 acupuncture points, 8 TCM diagnostic patterns, and treatment protocols reflect real Traditional Chinese Medicine practice.
+
+**ES** · La autora es acupunturista certificada (RENATED, Folio A-43253) y profesional de la analítica y aiencia de datos. Los datos de pacientes son completamente ficticios. Los 28 acupuntos, 8 patrones diagnósticos MTC y protocolos de tratamiento reflejan práctica real de Medicina Tradicional China.
 
 ---
 
