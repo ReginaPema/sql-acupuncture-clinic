@@ -1,17 +1,15 @@
-# SQL Relational Database: Acupuncture Clinic
+# <img src="https://img.icons8.com/?size=50&id=81093&format=png&color=000000" align="center"/> SQL Relational Database: Acupuncture Clinic
 ## Base de Datos Relacional: Clínica de Acupuntura y MTC
 
 > **EN** · Relational database project modeling a Traditional Chinese Medicine clinic's electronic health records system, built with Python and SQLite.
-> Five interconnected tables capture patient records, TCM diagnoses, acupuncture points, treatment sessions, and point-per-session details;
-> enabling complex relational queries that mirror real clinical workflows.
+> Five interconnected tables capture patient records, TCM diagnoses, acupuncture points, treatment sessions, and point-per-session details; enabling complex relational queries that mirror real clinical workflows.
 >
 > **ES** · Proyecto de base de datos relacional que modela el expediente clínico de una clínica de Medicina Tradicional China, construido con Python y SQLite.
-> Cinco tablas interconectadas capturan pacientes, diagnósticos MTC, acupuntos, sesiones de tratamiento y puntos por sesión;
-> permitiendo consultas relacionales que reflejan flujos clínicos reales.
+> Cinco tablas interconectadas capturan pacientes, diagnósticos MTC, acupuntos, sesiones de tratamiento y puntos por sesión; permitiendo consultas relacionales que reflejan flujos clínicos reales.
 
 ---
 
-## Database Schema / Esquema de Base de Datos
+## <img src="https://img.icons8.com/?size=40&id=80717&format=png&color=000000" align="center"/> Database Schema / Esquema de Base de Datos
 
     pacientes (patients)
     │
@@ -37,7 +35,7 @@
 
 ---
 
-## TCM Clinical Framework / Marco Clínico MTC
+## <img src="https://img.icons8.com/?size=40&id=80842&format=png&color=000000" align="center"/> TCM Clinical Framework / Marco Clínico MTC
 
 ### How TCM diagnosis works / Cómo funciona el diagnóstico MTC
 
@@ -58,6 +56,8 @@
 | Damp-Heat Stomach-Intestine · Humedad-Calor Estómago-Intestino | Greasy yellow coat · Saburra amarilla y grasienta | Slippery & rapid · Resbaladizo y rápido |
 | Blood Stagnation · Estancamiento de Sangre | Purple with petechiae · Morada con petequias | Choppy · Rugoso |
 
+*Full catalog of 25 diagnostics in `diagnosticos.csv`*
+
 ### Key acupuncture points / Acupuntos clave
 
 | Code | Name (Pinyin) | Meridian | Primary Action |
@@ -71,7 +71,7 @@
 | HT7 | Shenmen | Heart | Calms the Shen, nourishes Heart Blood |
 | BL23 | Shenshu | Bladder | Strengthens Kidney, nourishes Jing |
 
-*Full catalog of 28 points in `acupuntos.csv`*
+*Full catalog of 28 acupoints in `acupuntos.csv`*
 
 ---
 
@@ -102,15 +102,13 @@ Used for: patients without sessions and diagnoses with no treatment started.
 ES · Devuelve todos los registros de la tabla izquierda y las coincidencias de la derecha; si no existen, muestra valores NULL.
 Usado para: pacientes sin sesiones y diagnósticos sin tratamiento iniciado.
 
-### 
-
 ---
 
-## Note / Nota
+## <img src="https://img.icons8.com/?size=40&id=shBqcY2jqNl3&format=png&color=000000" align="center"/> Note / Nota
 
-**EN** · The author is a licensed acupuncturist (RENATED certified, Folio A-43253) and a professional in data science and analytics. Patient data is entirely fictional. The 28 acupuncture points, 8 TCM diagnostic patterns, and treatment protocols reflect real Traditional Chinese Medicine practice.
+**EN** · The author is a licensed acupuncturist (RENATED certified, Folio A-43253) and a professional in data science and analytics. Patient data is entirely fictional. The 28 acupuncture points, 25 TCM diagnostic patterns, and treatment protocols reflect real Traditional Chinese Medicine practice.
 
-**ES** · La autora es acupunturista certificada (RENATED, Folio A-43253) y profesional de la analítica y aiencia de datos. Los datos de pacientes son completamente ficticios. Los 28 acupuntos, 8 patrones diagnósticos MTC y protocolos de tratamiento reflejan práctica real de Medicina Tradicional China.
+**ES** · La autora es acupunturista certificada (RENATED, Folio A-43253) y profesional de la analítica y aiencia de datos. Los datos de pacientes son completamente ficticios. Los 28 acupuntos, 25 patrones diagnósticos MTC y protocolos de tratamiento reflejan práctica real de Medicina Tradicional China.
 
 ---
 
