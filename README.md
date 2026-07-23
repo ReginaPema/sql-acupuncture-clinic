@@ -86,21 +86,41 @@
 
 ## <img src="https://img.icons8.com/?size=40&id=81350&format=png&color=000000" align="center"/> SQL Queries Covered / Consultas SQL Cubiertas
 
-### INNER JOIN
+<img src="https://img.icons8.com/?size=25&id=V3onoUIHopvo&format=png&color=000000" align="center"/> **INNER JOIN**
 
-EN · Returns only records with matching values in all joined tables.
-Used for: full treatment history, sessions linked with patient and diagnosis, and acupoint applications with clinical context.
+EN · Returns only records with matching values in all joined tables. Used for: full treatment history (sessions ↔ patients ↔ diagnoses), and acupoint applications with clinical context (points ↔ sessions ↔ patients ↔ diagnoses ↔ acupoints).
 
-ES · Devuelve solo los registros con coincidencias en todas las tablas relacionadas.
-Usado para: historial completo de tratamiento, sesiones vinculadas con paciente y diagnóstico, y aplicación de acupuntos con contexto clínico.
+ES · Devuelve solo los registros con coincidencias en todas las tablas relacionadas. Usado para: historial completo de tratamiento (sesiones ↔ pacientes ↔ diagnósticos), y aplicación de acupuntos con contexto clínico (puntos ↔ sesiones ↔ pacientes ↔ diagnósticos ↔ acupuntos).
 
-### LEFT JOIN
+<img src="https://img.icons8.com/?size=25&id=V3onoUIHopvo&format=png&color=000000" align="center"/> **LEFT JOIN**
 
-EN · Returns all records from the left table and matching records from the right table; when no match exists, NULL values are returned.
-Used for: patients without sessions and diagnoses with no treatment started.
+EN · Returns all records from the left table and matching records from the right table; when no match exists, NULL values are returned. Used for: all patients with or without sessions (via COUNT + COALESCE), and all diagnoses with or without treatment started.
 
-ES · Devuelve todos los registros de la tabla izquierda y las coincidencias de la derecha; si no existen, muestra valores NULL.
-Usado para: pacientes sin sesiones y diagnósticos sin tratamiento iniciado.
+ES · Devuelve todos los registros de la tabla izquierda y las coincidencias de la derecha; si no existen, muestra valores NULL. Usado para: todos los pacientes con o sin sesiones (vía COUNT + COALESCE), y todos los diagnósticos con o sin tratamiento iniciado.
+
+<img src="https://img.icons8.com/?size=25&id=V3onoUIHopvo&format=png&color=000000" align="center"/> **CASE WHEN**
+
+EN · Conditional logic within a query, functioning as an if...else that returns different values based on evaluated conditions. Used for: classifying treatment progress by session count, and categorizing TCM syndrome type (Xu/Deficiency, Shi/Excess, External, Mixed) from diagnostic pattern text via LIKE.
+
+ES · Lógica condicional dentro de una consulta, funcionando como un if...else que devuelve valores distintos según la condición evaluada. Usado para: clasificar el avance del tratamiento por número de sesiones, y categorizar el tipo de síndrome MTC (Xu/Deficiencia, Shi/Exceso, Externo, Mixto) a partir del texto del patrón diagnóstico con LIKE.
+
+<img src="https://img.icons8.com/?size=25&id=V3onoUIHopvo&format=png&color=000000" align="center"/> **SubQueries / Subconsultas**
+
+EN · Nested queries that filter, calculate, or generate intermediate data used by an outer query, placed in the SELECT, FROM, or WHERE clause.
+
+- Semi-Join (WHERE + correlated subquery): patients with more than one diagnosis.
+- Subquery in WHERE with IN: full diagnostic detail for patients with multiple diagnoses.
+- Anti-Join (NOT IN): diagnoses that never received any treatment session.
+- Subquery in FROM: most-used therapeutic techniques by TCM syndrome type.
+- Scalar subqueries: clinic-wide summary statistics (totals, averages, inactive patients).
+
+ES · Consultas anidadas que filtran, calculan o generan datos intermedios para una consulta externa, ubicadas en la cláusula SELECT, FROM o WHERE.
+
+- Semi-Join (WHERE + subconsulta correlacionada): pacientes con más de un diagnóstico.
+- Subconsulta en WHERE con IN: detalle completo de diagnósticos en pacientes con múltiples registros.
+- Anti-Join (NOT IN): diagnósticos que nunca recibieron ninguna sesión de tratamiento.
+- Subconsulta en FROM: técnicas terapéuticas más usadas por tipo de síndrome MTC.
+- Subconsultas escalares: estadísticas resumen de la clínica (totales, promedios, pacientes inactivos).
 
 ---
 
@@ -108,7 +128,7 @@ Usado para: pacientes sin sesiones y diagnósticos sin tratamiento iniciado.
 
 **EN** · The author is a licensed acupuncturist (RENATED certified, Folio A-43253) and a professional in data science and analytics. Patient data is entirely fictional. The 28 acupuncture points, 25 TCM diagnostic patterns, and treatment protocols reflect real Traditional Chinese Medicine practice.
 
-**ES** · La autora es acupunturista certificada (RENATED, Folio A-43253) y profesional de la analítica y aiencia de datos. Los datos de pacientes son completamente ficticios. Los 28 acupuntos, 25 patrones diagnósticos MTC y protocolos de tratamiento reflejan práctica real de Medicina Tradicional China.
+**ES** · La autora es acupunturista certificada (RENATED, Folio A-43253) y profesional de la analítica y ciencia de datos. Los datos de pacientes son completamente ficticios. Los 28 acupuntos, 25 patrones diagnósticos MTC y protocolos de tratamiento reflejan práctica real de Medicina Tradicional China.
 
 ---
 
